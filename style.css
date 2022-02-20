@@ -315,6 +315,7 @@ p {
 .category__btn:hover .category__count {
   opacity: 1;
   top: 0;
+  margin-left: -5px;
 }
 
 .category__count {
@@ -323,6 +324,7 @@ p {
   color: var(--color-white);
   width: 20px;
   height: 20px;
+  margin-left: -20px;
   display: inline-block;
   position: relative;
   top: -15px;
